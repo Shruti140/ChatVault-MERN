@@ -1,6 +1,7 @@
 # ChatVault
 
 **Introduction**
+
 ChatVault is a secure and private chat application designed for seamless and encrypted communication. Whether you are chatting with friends or collaborating with colleagues, ChatVault will ensure that your messages remain confidential.
 
 **Features**
